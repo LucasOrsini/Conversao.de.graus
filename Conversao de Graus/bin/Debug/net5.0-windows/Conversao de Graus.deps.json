@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Conversao de Graus/1.0.0": {
+        "runtime": {
+          "Conversao de Graus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conversao de Graus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\bin\Debug\net5.0-windows\Conversao de Graus.exe
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\bin\Debug\net5.0-windows\Conversao de Graus.deps.json
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\bin\Debug\net5.0-windows\Conversao de Graus.runtimeconfig.json
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\bin\Debug\net5.0-windows\Conversao de Graus.runtimeconfig.dev.json
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\bin\Debug\net5.0-windows\Conversao de Graus.dll
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\bin\Debug\net5.0-windows\ref\Conversao de Graus.dll
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\bin\Debug\net5.0-windows\Conversao de Graus.pdb
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\obj\Debug\net5.0-windows\Conversao de Graus.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\obj\Debug\net5.0-windows\Conversao_de_Graus.Form1.resources
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\obj\Debug\net5.0-windows\Conversao de Graus.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\obj\Debug\net5.0-windows\Conversao de Graus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\obj\Debug\net5.0-windows\Conversao de Graus.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\obj\Debug\net5.0-windows\Conversao de Graus.AssemblyInfo.cs
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\obj\Debug\net5.0-windows\Conversao de Graus.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\obj\Debug\net5.0-windows\Conversao de Graus.dll
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\obj\Debug\net5.0-windows\ref\Conversao de Graus.dll
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\obj\Debug\net5.0-windows\Conversao de Graus.pdb
+C:\Users\user\Desktop\Trabalhos ETEC\2 DES\DS\Conversao de Graus\Conversao de Graus\obj\Debug\net5.0-windows\Conversao de Graus.genruntimeconfig.cache
